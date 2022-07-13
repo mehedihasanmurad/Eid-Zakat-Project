@@ -58,6 +58,10 @@ header{
     margin-top: 5%;
     text-align: center;
 }
+.new-header h1{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
 .new-image{
     display: flex;
     justify-content: center;
@@ -86,4 +90,48 @@ header{
 .div-line img{
     margin: 10px;
     width: 400px;
+}
+.earn{
+    text-align: center;
+    margin-top: 40px;
+}
+.earn p{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.hands{
+    height: 450px;
+    display: flex;
+    justify-content: center;
+}
+
+.hand{
+    box-shadow: 0 0 1px gray;
+    margin: 10px;
+}
+.hand h1{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.hand p{
+    padding: 10px 0 20px 20px;
+}
+.hand a{
+    padding-left: 20px;
+    color: red;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+    margin-top: 80px;
+}
+footer h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: orangered;
+    padding: 10px;
+}
+footer p{
+    color: gray;
 }
