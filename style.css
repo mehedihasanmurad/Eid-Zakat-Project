@@ -54,3 +54,36 @@ header{
     width: 300px;
     margin-right: 70px;
 }
+.new-header{
+    margin-top: 5%;
+    text-align: center;
+}
+.new-image{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.new-image1{
+    display: flex;
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: rgb(243, 234, 231);
+}
+.new-image2{
+    padding: 20px;
+}
+.new-images{
+    display: flex;
+    justify-content: center;
+}
+.div-line{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.div-line img{
+    margin: 10px;
+    width: 400px;
+}
